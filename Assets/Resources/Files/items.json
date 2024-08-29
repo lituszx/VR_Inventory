@@ -1,0 +1,32 @@
+{
+	"itemData":
+	[
+		{
+			"id":0,
+			"name":"Glock-18",
+			"type":1,
+			"description":"Pistola de gran precision",
+			"damage":2,
+			"spritePath":"Sprites/Items/0",
+			"stackable": false
+		},
+		{
+			"id":1,
+			"name":"Vendas Curativas",
+			"type":2,
+			"description":"Vendas para curar en caso de emergencia",
+			"damage":7,
+			"spritePath":"Sprites/Items/1",
+			"stackable": true
+		},
+		{
+			"id":2,
+			"name":"Scar-H",
+			"type":1,
+			"description":"Rifle de gran cadencia",
+			"damage":8,
+			"spritePath":"Sprites/Items/2",
+			"stackable": false
+		}
+	]
+}

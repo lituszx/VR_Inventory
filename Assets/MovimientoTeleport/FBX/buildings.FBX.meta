@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 04bb677439788d1478d1bb060b8c4c86
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Almacen_rural
+    100002: Arbol
+    100004: Ayuntamiento_01
+    100006: Ayuntamiento_02
+    100008: //RootNode
+    100010: Casa_unifamiliar
+    100012: Casa_unifamiliar_2
+    100014: Edificio_urbano_01
+    100016: Edificio_urbano_02
+    100018: Edificio_urbano_03
+    100020: Escuela
+    100022: Escuela_2
+    100024: Garden
+    100026: Hospital
+    100028: Piruli
+    100030: Plaza_de_toros
+    100032: sci-fi
+    100034: sci_fi_02
+    100036: Vivienda
+    400000: Almacen_rural
+    400002: Arbol
+    400004: Ayuntamiento_01
+    400006: Ayuntamiento_02
+    400008: //RootNode
+    400010: Casa_unifamiliar
+    400012: Casa_unifamiliar_2
+    400014: Edificio_urbano_01
+    400016: Edificio_urbano_02
+    400018: Edificio_urbano_03
+    400020: Escuela
+    400022: Escuela_2
+    400024: Garden
+    400026: Hospital
+    400028: Piruli
+    400030: Plaza_de_toros
+    400032: sci-fi
+    400034: sci_fi_02
+    400036: Vivienda
+    2100000: Material_Material_Edificio_Urbano_03
+    2100002: Material_Edificio_Urbano_02
+    2100004: Material_Ayundamiento_02
+    2100006: Material_Edificio_Urbano_01
+    2100008: Material_Casa_Unifamiliar_02
+    2100010: Material_Casa_Unifamiliar_01
+    2100012: Material_Escuela_02
+    2100014: Material_Almacen_rural
+    2100016: Material_Plaza_de_Toros
+    2100018: Material_Escuela_01
+    2100020: Material_Hospital
+    2100022: Material_Ayuntamiento_01
+    2100024: Material_79
+    2100026: Material_78
+    2100028: Material_Vivienda_01
+    2100030: Material_Vivienda_02
+    2100032: Material_81
+    2100034: Material_80
+    2100036: Material_Piruli_01
+    2100038: Material_Piruli_02
+    2100040: Material_Piruli_03
+    2100042: Material_Arbol_1
+    2100044: Material_Arbol_2
+    2100046: Material_Garden
+    2300000: Almacen_rural
+    2300002: Arbol
+    2300004: Ayuntamiento_01
+    2300006: Ayuntamiento_02
+    2300008: Casa_unifamiliar
+    2300010: Casa_unifamiliar_2
+    2300012: Edificio_urbano_01
+    2300014: Edificio_urbano_02
+    2300016: Edificio_urbano_03
+    2300018: Escuela
+    2300020: Escuela_2
+    2300022: Garden
+    2300024: Hospital
+    2300026: Piruli
+    2300028: Plaza_de_toros
+    2300030: sci-fi
+    2300032: sci_fi_02
+    2300034: Vivienda
+    3300000: Almacen_rural
+    3300002: Arbol
+    3300004: Ayuntamiento_01
+    3300006: Ayuntamiento_02
+    3300008: Casa_unifamiliar
+    3300010: Casa_unifamiliar_2
+    3300012: Edificio_urbano_01
+    3300014: Edificio_urbano_02
+    3300016: Edificio_urbano_03
+    3300018: Escuela
+    3300020: Escuela_2
+    3300022: Garden
+    3300024: Hospital
+    3300026: Piruli
+    3300028: Plaza_de_toros
+    3300030: sci-fi
+    3300032: sci_fi_02
+    3300034: Vivienda
+    4300000: Edificio_urbano_03
+    4300002: Edificio_urbano_02
+    4300004: Ayuntamiento_02
+    4300006: Edificio_urbano_01
+    4300008: Casa_unifamiliar_2
+    4300010: Casa_unifamiliar
+    4300012: Escuela_2
+    4300014: Almacen_rural
+    4300016: Plaza_de_toros
+    4300018: Escuela
+    4300020: Hospital
+    4300022: Ayuntamiento_01
+    4300024: sci_fi_02
+    4300026: Vivienda
+    4300028: sci-fi
+    4300030: Piruli
+    4300032: Arbol
+    4300034: Garden
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
